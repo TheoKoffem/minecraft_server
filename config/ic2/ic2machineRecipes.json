@@ -95,14 +95,7 @@
   "item.thermalfoundation.material.dustConstantan_-1203616026": true,
   "item.thermalfoundation.material.dustSignalum_1586352118": true,
   "item.thermalfoundation.material.dustLumium_312742968": true,
-  "item.thermalfoundation.material.dustEnderium_-1659534949": true,
-  "item.dungeontactics:titanium_dust_1919362207": true,
-  "item.dungeontactics:tungsten_dust_-691082111": true,
-  "item.dungeontactics:osmium_dust_278478366": true,
-  "item.dungeontactics:osmium_dust_-372003815": true,
-  "item.dungeontactics:titanium_dust_-32487068": true,
-  "item.dungeontactics:tungsten_dust_1652035910": true,
-  "item.railcraft.dust.ender_-1799140808": true
+  "item.thermalfoundation.material.dustEnderium_-1659534949": true
  },
  "extractor": {
   "item.coal_764578481": true,
@@ -368,22 +361,6 @@
   "tile.redwoods.fir_planks_To_Sticks_-1765933512_1": true,
   "tile.traverse:fir_planks_To_Sticks_1834480565": true,
   "tile.log.jungle_-1814706450": true,
-  "item.minecraft:melon_-1083706285": true,
-  "tile.twilightforest.TwilightOakPlanks_-1058539310": true,
-  "tile.twilightforest.CanopyPlanks_-907196395": true,
-  "tile.twilightforest.MangrovePlanks_-472800667": true,
-  "tile.twilightforest.DarkPlanks_-2047230775": true,
-  "tile.twilightforest.TimePlanks_-1893655982": true,
-  "tile.twilightforest.TransPlanks_-1107942248": true,
-  "tile.twilightforest.MinePlanks_-1636784370": true,
-  "tile.twilightforest.SortPlanks_126688740": true,
-  "tile.twilightforest.TwilightOakPlanks_To_Sticks_184576075": true,
-  "tile.twilightforest.CanopyPlanks_To_Sticks_581209353": true,
-  "tile.twilightforest.MangrovePlanks_To_Sticks_1162545242": true,
-  "tile.twilightforest.DarkPlanks_To_Sticks_-400177641": true,
-  "tile.twilightforest.TimePlanks_To_Sticks_-700045138": true,
-  "tile.twilightforest.TransPlanks_To_Sticks_-2112752951": true,
-  "tile.twilightforest.MinePlanks_To_Sticks_-1327019340": true,
-  "tile.twilightforest.SortPlanks_To_Sticks_1801009727": true
+  "item.minecraft:melon_-1083706285": true
  }
 }
