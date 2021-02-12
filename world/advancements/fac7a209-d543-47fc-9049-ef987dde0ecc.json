@@ -1,0 +1,74 @@
+{
+  "dungeontactics:dungeoneering/born_survivor": {
+    "criteria": {
+      "stab": "2021-02-09 20:04:38 +0100"
+    },
+    "done": false
+  },
+  "simplyjetpacks:vanilla/root_vanilla": {
+    "criteria": {
+      "code_trigger": "2021-02-09 20:04:39 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:eio/root_eio": {
+    "criteria": {
+      "code_trigger": "2021-02-09 20:04:39 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2021-02-09 20:04:40 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:te/root_te": {
+    "criteria": {
+      "code_trigger": "2021-02-09 20:04:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2021-02-09 20:05:41 +0100"
+    },
+    "done": true
+  },
+  "ic2:recipes/dark_oak_wood_recipes": {
+    "criteria": {
+      "has_item": "2021-02-09 20:05:41 +0100"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2021-02-09 20:04:40 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2021-02-09 20:04:39 +0100"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2021-02-09 20:04:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2021-02-09 20:05:39 +0100"
+    },
+    "done": false
+  },
+  "simplyjetpacks:root": {
+    "criteria": {
+      "location": "2021-02-09 20:04:39 +0100"
+    },
+    "done": true
+  }
+}

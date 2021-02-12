@@ -1,1 +1,2 @@
-java -Xmx2G -Xms2G -jar minecraft_server.1.16.5.jar nogui
+java -server -Xmx2G -Xms2G -jar forge-1.12.2-14.23.5.2847-universal.jar
+
